@@ -2,7 +2,8 @@
 ### Hi there 👋
 
 <!--
-**ahmedkhaled123456789/ahmedkhaled123456789** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ahmedkhaledaboamer/ahmedkhaledaboamer
+** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -26,11 +27,11 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Next.JS & Nest.JS**
 
-- 👨‍💻 All of my projects are available at [https://ahmedkhaled123456789.github.io/portfolio-app/](https://ahmedkhaled123456789.github.io/portfolio-app/)
+- 👨‍💻 All of my projects are available at [https://ahmedkhaledaboamer.github.io/portfolio-app/](https://ahmedkhaledaboamer.github.io/portfolio-app/)
 
 - 💬 Ask me about **React.JS & Node.JS**
 
-- 📫 How to reach me **ahmed1999khaledaboamer1999@gmail.com**
+- 📫 How to reach me **ahmedkhaledq207@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 
