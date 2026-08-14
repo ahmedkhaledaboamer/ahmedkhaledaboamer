@@ -1,5 +1,6 @@
 <h1 align="left">Hi, I'm Ahmed Khaled 👋</h1>
 <h3 align="left">Frontend Developer — React.js · Next.js · TypeScript</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left">
 I build fast, scalable SaaS platforms, enterprise dashboards, and production web applications.
@@ -8,7 +9,7 @@ from SSR/SSG performance tuning to real-time dashboards and workflow automation.
 </p>
 
 ---
-
+ 
 ### 🔭 What I Build
 
 - **SaaS platforms & business dashboards** — role-based access, data-heavy UIs, real-time updates
