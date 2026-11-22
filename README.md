@@ -92,5 +92,5 @@ Full-stack pharmacy operations system spanning inventory, sales, and reporting.
 ### 📫 Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-khaled-6b9385206)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://ahmedkhaled123456789.github.io/portfolio-app/)
+[![Portfolio]([https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://ahmedkhaled123456789.github.io/portfolio-app/](https://portfolio-new-mocha-alpha.vercel.app/))
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ahmedkhaledq207@gmail.com)
